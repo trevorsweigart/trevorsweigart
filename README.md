@@ -1,14 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trevor
-==============================================================================================================================
+# <p style="font-size: 2em; margin-top: 0.67em; margin-bottom: 0.67em; font-weight: bold;" align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> Hi, my name is Trevor</p>
 
-Software Developer
-------------------
 
 *   🌍  I'm based in Dayton, OH
 *   ✉️  You can contact me at [sweigart.trevor@protonmail.com](mailto:sweigart.trevor@protonmail.com)
-
 <a href="https://www.github.com/trevorsweigart" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/trevorsweigart?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills 
 <p align="left">
@@ -27,7 +24,7 @@ Software Developer
 
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/trevorsweigart" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trevor-sweigart-545117194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/231601506187608068" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/trevorsweigart" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trevor-sweigart-545117194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
